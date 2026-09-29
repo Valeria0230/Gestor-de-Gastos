@@ -99,7 +99,7 @@ main {
   justify-content: space-between;
 }
 
-/* RESPONSIVO - palomita de la rúbrica */
+
 @media (max-width: 600px) {
   header {
     flex-direction: column;
@@ -109,3 +109,4 @@ main {
     padding: 15px;
   }
 }
+
