@@ -1,0 +1,111 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background: hwb(0 96% 3%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* HEADER Y FOOTER */
+header {
+  background: #98d6df;
+  color: rgb(3, 3, 3);
+  padding: 30px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 35px;
+}
+
+header nav a {
+  color: white;
+  text-decoration: none;
+  margin-left: 15px;
+}
+
+footer {
+  background: #3a687a;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: auto;
+}
+
+
+main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  padding: 30px 20px;
+}
+
+.contenedor {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 5000px;
+}
+
+.contenedor h2, .contenedor h3 {
+  margin-bottom: 10px;
+}
+
+.contenedor input {
+  width: 100%;
+  padding: 17px;
+  margin: 10px 0;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.contenedor button {
+  width: 100%;
+  padding: 15px;
+  background: #0f172a;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.contenedor button:hover {
+  background: #1e293b;
+}
+
+#lista {
+  list-style: none;
+  margin-top: 30px;
+}
+
+#lista li {
+  background: #f8fafc;
+  padding: 15px;
+  border-radius: 6px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* RESPONSIVO - palomita de la rúbrica */
+@media (max-width: 600px) {
+  header {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .contenedor {
+    padding: 15px;
+  }
+}

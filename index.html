@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gastos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  
+  <header>
+    <h1>Mis Gastos</h1>
+    <nav>
+      <a href="#">Inicio</a>
+      <a href="#">Gastos</a>
+    </nav>
+  </header>
+
+  
+  <main>
+    <div class="contenedor">
+      <h2>Agregar Gasto</h2>
+      <input type="text" id="nombre" placeholder="Ej: Comida">
+      <input type="number" id="monto" placeholder="Ej: 100">
+      <button id="btnGuardar">Guardar</button>
+
+      <h3>Lista de Gastos</h3>
+      <ul id="lista"></ul>
+      
+      <h3>Total: $<span id="total">0</span></h3>
+    </div>
+  </main>
+
+  
+  <footer>
+    <p>© 2026 - Fundamentos de Desarrollo Web - VALERIA ROJAS</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
