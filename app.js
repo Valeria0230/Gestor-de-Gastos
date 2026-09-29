@@ -74,3 +74,4 @@ function editarGasto(index) {
 btnGuardar.addEventListener('click', guardarGasto);
 
 mostrarGastos();
+
