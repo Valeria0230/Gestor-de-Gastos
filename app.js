@@ -70,6 +70,7 @@ function editarGasto(index) {
   btnGuardar.textContent = 'Actualizar';
 }
 
+
 btnGuardar.addEventListener('click', guardarGasto);
 
 mostrarGastos();
