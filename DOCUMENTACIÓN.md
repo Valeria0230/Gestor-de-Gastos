@@ -28,13 +28,13 @@ Footer personalizado con nombre y matrícula.
 
 ### Evidencias CRUD
 **CREAR**
-![CREAR](https://github.com/user-attachments/assets/a20de1b8-a940-4213-9b97-e3e5f6cac8c7)
+![CREAR](CREAR.jpg)
 
 **LEER**
-![LEER](https://github.com/user-attachments/assets/ae3a4057-bc86-482a-859a-49e5bc42c891)
+![LEER](LEER.jpg)
 
 **EDITAR/ACTUALIZAR**
-![EDITAR](https://github.com/user-attachments/assets/41923b2d-9eb3-4dbb-9317-a7336)
+![EDITAR](EDITAR.jpg)
 
 **BORRAR** 
-![BORRAR](https://github.com/user-attachments/assets/16d01891-a25d-4c56-a6c3-d7c47f1a79c)
+![BORRAR](BORRAR.jpg)
