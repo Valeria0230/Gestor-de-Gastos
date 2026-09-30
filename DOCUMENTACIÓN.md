@@ -36,5 +36,5 @@ Footer personalizado con nombre y matrícula.
 **EDITAR/ACTUALIZAR**
 ![EDITAR](https://github.com/user-attachments/assets/41923b2d-9eb3-4dbb-9317-a7336)
 
-**BORRAR**
+**BORRAR** 
 ![BORRAR](https://github.com/user-attachments/assets/16d01891-a25d-4c56-a6c3-d7c47f1a79c)
