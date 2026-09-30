@@ -28,7 +28,8 @@ Footer personalizado con nombre y matrícula.
 
 ### Evidencias CRUD
 **CREAR**
-![CREAR](<img width="1339" height="973" alt="CREAR jpg" src="https://github.com/user-attachments/assets/494cc0fc-0ff2-48d1-a950-1f70087698c8" />)
+![CREAR](<img width="1339" height="973" alt="CREAR jpg" src="https://github.com/user-attachments/assets/ad0c8b16-3050-4b77-a8f9-d9c23fae5b63" />
+)
 
 **LEER**
 ![LEER]()
