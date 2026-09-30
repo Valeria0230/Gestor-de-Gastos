@@ -23,7 +23,17 @@ Footer personalizado con nombre y matrícula.
 5. Repositorio: https://github.com/Valeria0230/Gestor-de-Gastos
 6. Sitio en vivo: https://valeria0230.github.io/Gestor-de-Gastos/
 
+## Evidencias CRUD
 
-6. Sitio en vivo: https://valeria0230.github.io/Gestor-de-Gastos/
+### CREAR
+![CREAR](./CREAR.jpg.jpeg)
 
+### LEER
+![LEER](./LEER.jpg.jpeg)
+
+### EDITAR / ACTUALIZAR
+![EDITAR](./EDITAR.jpg.jpeg)
+
+### BORRAR
+![BORRAR](./BORRAR.jpg.jpeg)
 
